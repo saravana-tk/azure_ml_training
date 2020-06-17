@@ -1,0 +1,3 @@
+2020-05-21 18:29:36,749 - INFO - 557 : ActivityStarted: GetOutput
+2020-05-21 18:29:36,810 - INFO - 557 : ActivityStarted: GetChildren
+2020-05-21 18:29:37,215 - INFO - 571 : ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=405.05[ms]
